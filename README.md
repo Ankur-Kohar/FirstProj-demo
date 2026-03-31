@@ -1,4 +1,4 @@
 # FirstProj-demo
-This is a my first Git Repository.
+This is my first Git Repository.
 <br>
 Author - Ankur Kohar(Self)
